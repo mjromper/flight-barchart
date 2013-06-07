@@ -1,0 +1,22 @@
+{
+  "name": "flight-barchart",
+  "version": "0.0.0",
+  "dependencies": {
+    "flight": "~1.0.9",
+    "d3":"~3.1.10"
+  },
+  "devDependencies": {
+    "flight-jasmine": "*",
+    "jasmine-jquery": "*"
+  },
+  "ignore": [
+    ".gitignore",
+    ".gitattributes",
+    ".travis.yml",
+    "CONTRIBUTING.md",
+    "CHANGELOG.md",
+    "test",
+    "package.json",
+    "karma.conf.js"
+  ]
+}
