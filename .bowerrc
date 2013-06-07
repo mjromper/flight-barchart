@@ -1,4 +1,7 @@
 {
-  "directory": "bower_components",
-  "endpoint": "http://bowerserver-mjromero.herokuapp.com"
+  "directory": "app/bower_components",
+  "endpoint": "http://bowerserver-mjromero.herokuapp.com",
+  "searchpath": [
+    "http://bower.herokuapp.com"
+  ]
 }
