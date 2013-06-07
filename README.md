@@ -1,8 +1,8 @@
 # flight-barchart
 
-[![Build Status](https://secure.travis-ci.org/<username>/flight-barchart.png)](http://travis-ci.org/<username>/flight-barchart)
+[![Build Status](https://secure.travis-ci.org/mjromper/flight-barchart.png)](http://travis-ci.org/mjromper/flight-barchart)
 
-A [Flight](https://github.com/twitter/flight) component for…
+A [Flight](https://github.com/twitter/flight) component for D3 BarChart
 
 ## Installation
 
